@@ -1,4 +1,4 @@
-![Q2](pics/Q2.jpg)
+![Q2](pics/Q2.png)
 ![Q1](pics/Q1.jpg)
 
 ### Example
