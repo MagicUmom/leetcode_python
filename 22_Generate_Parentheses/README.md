@@ -1,4 +1,4 @@
-[答案連結](https://nbviewer.jupyter.org/github/MagicUmom/leetcode_python/blob/master/)
+[答案連結](https://nbviewer.jupyter.org/github/MagicUmom/leetcode_python/blob/master/22_Generate_Parentheses/Ans.ipynb)
 
 ---
 
@@ -7,6 +7,7 @@
 ![S1](pics/S1.jpeg)
 ![S2](pics/S2.jpeg)
 
+---
 
 # Solution 
 **時間複雜度 O(??)**
@@ -30,3 +31,7 @@
 
 ---
 
+# Score
+![Score](pics/score.png)
+
+---
