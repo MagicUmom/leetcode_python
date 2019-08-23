@@ -32,6 +32,6 @@
 ---
 
 # Score
-![Score](pics/score.png)
+![Score](pics/score.jpg)
 
 ---
